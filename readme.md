@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ### **3️⃣ Run the Application**
 
 ```sh
-python3 main.py
+python3 finance_manager.py
 ```
 
 ---
