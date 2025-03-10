@@ -51,7 +51,7 @@ cd Finance-manager-cli
 ### **2️⃣ Install Dependencies**
 
 ```sh
-pip install -r requirements.txt
+pip install questionary
 ```
 
 ### **3️⃣ Run the Application**
